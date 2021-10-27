@@ -1,5 +1,5 @@
 # MancalaGame
-JFrame Mancala Game
+Mancala
 
 Author: Jeremy Esch
 
